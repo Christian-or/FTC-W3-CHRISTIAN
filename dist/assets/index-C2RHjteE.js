@@ -1,0 +1,1 @@
+import{_ as e,c,o}from"./index-DScG3dA9.js";const t={},s={class:"px-4 md:px-10 lg:px-16 max-w-7xl mx-auto py-2"};function n(a,r){return o(),c("div",s)}const x=e(t,[["render",n]]);export{x as default};
