@@ -11,7 +11,7 @@ import { setupAOS } from '@/helpers/aos.js'
 import App from './App.vue'
 import router from './router'
 
-const appName = 'SPEND.IN';
+const appName = 'MONITO';
 
 
 const app = createApp(App)
